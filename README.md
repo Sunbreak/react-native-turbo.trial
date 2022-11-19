@@ -1,9 +1,10 @@
 # Projects
 
-|               | type          | languages          |
-|---------------|---------------|--------------------|
-| simple-module | Native module | Java & Objective-C |
-| modern-module | Native module | Kotlin & Swift     |
+|               | type                              | languages             |
+|---------------|-----------------------------------|-----------------------|
+| simple-module | Native module                     | Java & Objective-C    |
+| modern-module | Native module                     | Kotlin & Swift        |
+| turbo-compat  | Turbo module with backward compat | C++ for Android & iOS |
 
 # How to run
 
