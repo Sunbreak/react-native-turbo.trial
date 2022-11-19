@@ -3,6 +3,7 @@
 |               | type          | languages          |
 |---------------|---------------|--------------------|
 | simple-module | Native module | Java & Objective-C |
+| modern-module | Native module | Kotlin & Swift     |
 
 # How to run
 
